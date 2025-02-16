@@ -10,3 +10,7 @@ In questo progetto **Pokedex** l'utente può:
 1. **Vedere** una lista di Pokémon appena apre l’app
 2. **Cercare** un Pokémon scrivendo il nome nella barra di ricerca
 
+
+## [Meta Login](https://github.com/yoorstel/Meta-Login)
+
+<img src="Screenshot_Pokedex.png" alt="Screenshot_Pokedex" width="820" height="430">
