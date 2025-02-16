@@ -2,4 +2,4 @@
 
 Benvenut* nel mio portfolio! Questi sono i miei progetti, vai a dargli un occhiata!
 
-##Pokedex
+## Pokedex
