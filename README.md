@@ -14,3 +14,9 @@ In questo progetto **Pokedex** l'utente può:
 ## [Meta Login](https://github.com/yoorstel/Meta-Login)
 
 <img src="Screenshot_Login.png" alt="Screenshot_Login" width="830" height="420">
+
+In questo progetto ho creato una pagina di **login** in HTML e CSS simile a quella di Meta.
+L'utente può:
+1. Inserire email e password nei campi del modulo
+2. Cliccare su "Accedi"
+3. Recuperare la password tramite "Password Dimenticata?"
