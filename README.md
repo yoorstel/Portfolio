@@ -13,4 +13,4 @@ In questo progetto **Pokedex** l'utente può:
 
 ## [Meta Login](https://github.com/yoorstel/Meta-Login)
 
-<img src="Screenshot_Login.png" alt="Screenshot_Login" width="820" height="430">
+<img src="Screenshot_Login.png" alt="Screenshot_Login" width="820" height="420">
