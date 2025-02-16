@@ -2,7 +2,7 @@
 
 Benvenut* nel mio portfolio! Questi sono i miei progetti, vai a dargli un occhiata!
 
-## Pokedex
+# [Pokédex](https://github.com/yoorstel/Pokedex)
 
 <img src="Screenshot_Pokedex.png" alt="Screenshot_Pokedex" width="820" height="430">
 
