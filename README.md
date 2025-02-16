@@ -2,7 +2,7 @@
 
 Benvenut* nel mio portfolio! Questi sono i miei progetti, vai a dargli un occhiata!
 
-## Pokedex
+### [Pokedex] ()
 <img src="Screenshot_Pokedex.png" alt="Screenshot_Pokedex" width="820" height="430">
 
 In questo progetto **Pokedex** l'utente può:
