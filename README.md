@@ -3,4 +3,4 @@
 Benvenut* nel mio portfolio! Questi sono i miei progetti, vai a dargli un occhiata!
 
 ## Pokedex
-<img src="Screenshot_Pokedex.png" alt="Screenshot_Pokedex" width="1200" height="900">
+<img src="Screenshot_Pokedex.png" alt="Screenshot_Pokedex" width="800" height="500">
